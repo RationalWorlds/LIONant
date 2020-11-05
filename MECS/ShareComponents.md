@@ -101,7 +101,7 @@ Here share will be mean entity-share, and global_share is meant to be use as a g
 ```
 
 Benefits:
-- Creates a clear line of separation between entity component and the rest. Which is definetly the most different in concept.
+- Creates a clear line of separation between entity component and the rest. Which is definitely the most different in concept.
 - Compile time type checking for the most distance concepts
 
 Notes:
@@ -133,6 +133,13 @@ These 3 kinds of components are nearly identical in their storage situation.
 All these types are allocated in pools in the Archetype. Entity-Share and the Pool-Share index into the Archetype pools to collect their instances.
 You could even claim that the Archetype-Share could be factor out into a World-Share pools. If that is the case begs the question why are all share components
 treated as an entity with that component and everyone else just have a guid to that particular instance. This line of thinking help go deeper into this topic.
+
+
+Why not having pools been part of an entity.
+Pool can have a list of global-shares. The list itself are just guids == entity-guids.
+The actual share component is connected to an entity.
+When this entity will have to have a ref count. Ones no one is pointing at it then it will kill itself.
+When a system changes a share component. It can create a new entity instance with the new version of the component.
 
 
 
