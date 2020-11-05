@@ -141,5 +141,7 @@ The actual share component is connected to an entity.
 When this entity will have to have a ref count. Ones no one is pointing at it then it will kill itself.
 When a system changes a share component. It can create a new entity instance with the new version of the component.
 
+<br>
 
+---
 
