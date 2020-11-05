@@ -1,8 +1,20 @@
 # Rational World Presents LionAnt
 
-## Depots
 
-- xCore
-- [MECS](http://rationalworlds.github.io/LIONant/ShareComponents.md) - Multicore Event Components Systems
-- 
+## Depots
+The following are the key depots.
+
+<img src="https://i.imgur.com/NwahbNn.jpg" align="left" width="150px" />
+<br>
+
+#### - [Multicore Event Components Systems](http://rationalworlds.github.io/LIONant/MECS/ShareComponents.md)
+
+<br>
+<br>
+
+<img src="https://i.imgur.com/NwahbNn.jpg" align="left" width="150px" />
+<br>
+
+#### - [xCore](http://rationalworlds.github.io/LIONant/MECS/ShareComponents.md)
+
 
