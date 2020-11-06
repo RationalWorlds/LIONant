@@ -2,5 +2,5 @@ theme: jekyll-theme-hacker
 show_downloads: false
 name: Rational Worlds
 title: Rational World Presents LionAnt
-github: false
+github:
   is_project_page: false
