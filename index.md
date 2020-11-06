@@ -1,5 +1,3 @@
-# Rational World Presents LionAnt
-
 ## Online Resources
 
 - Html editor: http://jsfiddle.net/PatuPL/knxh2a4h/11/ 
