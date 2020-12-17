@@ -2,7 +2,7 @@
 # Up to date Share Components Design Versions
 
 ## Tentative version of the Share component V3
-![Drag Racing](img/Share_Components_Design_V2.jpg)
+![Drag Racing](img/Share_Components_Design_V3.jpg)
 
 ## Archetype Data Base V2
 ![Archetype Data Base](img/MECS-Archetype-Database_V2.jpg)
