@@ -16,3 +16,12 @@
 <br>
 **-** [Documentation](MECS/ShareComponents.md)
 
+<br>
+<br>
+
+## ***Properties***
+<img src="https://i.imgur.com/GfJb3sQ.jpg" align="left" width="110px"/>
+
+**-** [Depot](https://gitlab.com/LIONant/properties)
+<br>
+**-** [Documentation](https://gitlab.com/LIONant/properties/-/blob/master/docs/Documentation.md)
