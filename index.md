@@ -4,6 +4,7 @@
 | --- | --- |
 | ***Introduction To Game Physics*** <br> <img src="https://i.imgur.com/0JXlUC7.jpg" align="left" width="150px" /> | - [Depot](https://gitlab.com/LIONant/introductiontogamephysics) |
 | ***Engine Programming Topics*** | - [Depot](https://gitlab.com/LIONant/engine-programming-topics) |
+| ***Digital Quantum (Article)*** | - [PDF](assets/The_Digital_Quantum.pdf) |
 
 # LIONant Projects
 
