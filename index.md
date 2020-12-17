@@ -14,16 +14,20 @@
 ## Depots
 The following are the key depots.
 
+#### ***Multicore Event Components Systems***
 <img src="https://i.imgur.com/NwahbNn.jpg" align="left" width="150px" />
+
+**-** [Depot](https://github.com/LIONant-depot/MECS)
+<br>
+**-** [Documentation](MECS/ShareComponents.md)
+
+<br>
 <br>
 
-#### -- [Multicore Event Components Systems](MECS/ShareComponents.md)
+#### ***xCore***
+<img src="https://i.imgur.com/thGy32h.jpg" align="left" width="150px"/>
 
+**-** [Depot](https://gitlab.com/LIONant/xcore)
 <br>
-<br>
-
-<img src="https://i.imgur.com/NwahbNn.jpg" align="left" width="150px" />
-<br>
-
-#### -- [xCore](MECS/ShareComponents.md)
+**-** [Documentation](MECS/ShareComponents.md)
 
