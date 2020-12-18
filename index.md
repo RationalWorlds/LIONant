@@ -3,9 +3,10 @@
 | Projects | Links |
 | --- | --- |
 | ***Introduction To Game Physics*** <br> <img src="https://i.imgur.com/0JXlUC7.jpg" align="left" width="150px" /> | - [Depot](https://gitlab.com/LIONant/introductiontogamephysics) |
-| ***Engine Programming Topics*** | - [Depot](https://gitlab.com/LIONant/engine-programming-topics) |
-| ***Digital Quantum (Article)*** | - [PDF](assets/The_Digital_Quantum.pdf) |
-| ***Video Channels***            | - [Odysee](https://odysee.com/@LIONant:0) <br> - [Youtube](https://www.youtube.com/channel/UC_K7kTkCqQnFg6__DGQblMw) |
+| ***Engine Programming Topics***                    | - [Depot](https://gitlab.com/LIONant/engine-programming-topics) |
+| ***Digital Quantum (Article)***                    | - [PDF](assets/The_Digital_Quantum.pdf) |
+| ***Faster Vector Math Using Templates (Article)*** | - [Flipcode](https://www.flipcode.com/archives/Faster_Vector_Math_Using_Templates.shtml) |
+| ***Video Channels***                               | - [Odysee](https://odysee.com/@LIONant:0) <br> - [Youtube](https://www.youtube.com/channel/UC_K7kTkCqQnFg6__DGQblMw) |
 
 # LIONant Projects
 
