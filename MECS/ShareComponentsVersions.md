@@ -2,6 +2,10 @@
 # Up to date Share Components Design Versions
 
 ## Tentative version of the Share component V3
+![Drag Racing](img/Share_Components_Design_V4.png)
+
+
+## Tentative version of the Share component V3
 ![Drag Racing](img/Share_Components_Design_V3.jpg)
 
 ## Archetype Data Base V2
