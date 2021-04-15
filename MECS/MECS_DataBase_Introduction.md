@@ -2,7 +2,8 @@
 
 Basic data base is composed of 5 Levels.
 
-![Basic Overview](img/ECSV3_BasicDataBase.jpg){: width=350 style="float:left; padding:10px"}
+<img src="img/ECSV3_BasicDataBase.jpg" width="350" style="float:left; padding:10px" />
+  
 
 ### Universe
 There is only one instance of this per game app normally. However MECS is created in such a way that you could
